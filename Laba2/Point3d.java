@@ -18,7 +18,7 @@ public class Point3d extends Point2d {
 	
 	/** Возвр координаты Z **/ 
 	public double getZ () { 
-		return zCoord; 
+		return zCrd; 
 	} 
 	
 	/**  Присвоение значения координаты Z. **/ 
