@@ -28,8 +28,8 @@ public class AStarState
 
         this.karta = karta;
 
-        openWP = new HashMap<>();
-        closedWP = new HashMap<>();
+        otkrWP = new HashMap<>();
+        zakrWP = new HashMap<>();
     }
 
     /** Returns the map that the A* pathfinder is navigating. **/
